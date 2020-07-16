@@ -1,0 +1,27 @@
+.HeadText {
+    margin-bottom: 0mm;
+    padding-top: 5mm;
+}
+#Element2 {
+    margin: 8mm 0mm 0mm 6mm;
+}
+#Element3 {
+    margin: 0mm 6mm;
+    width:  70mm;
+    height: 70mm;
+    background-color: aliceblue;
+    border: gray 1mm solid;
+}
+#text1 {
+    margin: 0mm 20mm;
+}
+#element5 {
+    background-color: burlywood;
+    width: 61mm;
+    height: 90mm;
+    margin: 5mm;
+    padding-left: 3mm;
+    padding-top: 3mm;
+    border: 1mm green solid;
+    float: left;
+}
